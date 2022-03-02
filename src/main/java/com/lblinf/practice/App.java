@@ -1,4 +1,4 @@
-package com.lblinf.java-spring-practice;
+package com.lblinf.practice;
 
 /**
  * Hello world!
